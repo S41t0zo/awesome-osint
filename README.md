@@ -163,6 +163,7 @@ algorithms, knowledgebase and AI technology.
 * [Myallsearch](http://www.myallsearch.com)
 * [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * [Swisscows](https://swisscows.com/)
+* [searxng](https://searx.space/) - SearXNG is a metasearch engine, aggregating the results of other search engines while not storing information about its users.
 
 ## [↑](#-table-of-contents) Privacy Focused Search Engines
 
@@ -177,6 +178,7 @@ algorithms, knowledgebase and AI technology.
 * [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 * [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
+* [searxng](https://searx.space/) - SearXNG is a metasearch engine, aggregating the results of other search engines while not storing information about its users.
 
 ## [↑](#-table-of-contents) Data Breach Search Engines
 
@@ -1605,6 +1607,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Maritime
 
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
+* [globalfishingwatch](https://globalfishingwatch.org/) - a FREE and open source data visualization platform. Global Fishing Watch provides AIS, VMS, and satellite imagery to track global vessel movements.
 
 ## [↑](#-table-of-contents) Other Tools
 
